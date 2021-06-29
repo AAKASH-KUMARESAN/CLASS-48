@@ -12,7 +12,7 @@ var s
 
 function preload() {
 road = loadImage("images/track.jpg");
-biker = loadImage("images/BIKER.png");
+biker = loadImage("images/biker.png");
 shop1 = loadImage("images/shop1.png");
 shop2 = loadImage("images/shop2.png");
 restartImg = loadImage("images/restart.png")
